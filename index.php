@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -10,5 +8,6 @@
        <?php
            echo "hello";
        ?> 
+       <h1>Header</h1>
     </body>
 </html>
